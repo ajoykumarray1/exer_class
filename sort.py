@@ -7,4 +7,7 @@ for i in range(len(l)-1):
             l[j+1]=tem
 
 print("after ascending",l)
+
+
+
         
